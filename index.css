@@ -1,0 +1,70 @@
+body{
+    font-family: cursive
+}
+#header{
+    background-color:black; 
+    height: 50px;
+}
+#nav{
+    background-color: blueviolet;;;
+    padding: 10px;
+    height: 80px;
+    color:wheat;
+
+}
+#img1{
+    height: 47px;
+    width: 60px; 
+    margin-left: 15px;
+    margin-top: 2px; 
+    float: left;
+}
+p2{
+    margin-top:15px ;
+     float: left;color: blanchedalmond;
+}
+ul{
+    display: block;
+    display: flex;
+     font-size: 13px;
+     list-style: none;
+      float: right; 
+      color: blanchedalmond;
+}
+h1{ padding-top: 15px;; 
+      margin-top: 15px;
+    color: white;
+    text-align: center; 
+
+}
+h2{
+      padding-top: 15px;; 
+        margin-top: 15px;
+      color: white;
+      text-align: center; 
+
+}
+#content{
+    height:400px ;
+     background-color:hotpink;
+}
+.img2{ 
+    width: 300px;
+    height: 250px;
+    width: 400px;
+    margin-top: 50px;;
+    margin-left: 155px;;
+    background-color: fuchsia;
+    text-align: left;
+    float: left;
+}
+p{
+    float: right;
+    margin-top: 55px;
+    margin-right: 275px;
+}
+#footer{
+    background-color: blueviolet;;;
+    padding: 10px;
+    height: 80px;  
+}
